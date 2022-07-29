@@ -1,0 +1,9 @@
+.custom_height_img{
+    height: 100%;
+    object-fit: cover;
+}
+
+.custom_height_item{
+    height: 350px !important;
+}
+
